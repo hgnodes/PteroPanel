@@ -25,4 +25,4 @@ Wing Daemon Port
 ```bash <(curl -fsSL https://raw.githubusercontent.com/hgnodes/custom/main/custom))```
 
 
-```bash <(curl -fsSL https://raw.githubusercontent.com/hgnodes/Docker/refs/heads/main/install)```
+```bash <(curl -fsSL https://raw.githubusercontent.com/hgnodes/Docker/main/install)```
