@@ -21,3 +21,5 @@ Wing Daemon Port
 
 ```bash <(curl -fsSL https://raw.githubusercontent.com/hgnodes/blueprint/main/addon-installer.sh)```
 
+
+```bash <(curl -fsSL https://raw.githubusercontent.com/hgnodes/custom/main/custom))```
