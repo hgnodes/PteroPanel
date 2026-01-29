@@ -26,3 +26,6 @@ Wing Daemon Port
 
 
 ```bash <(curl -fsSL https://raw.githubusercontent.com/hgnodes/Docker/main/install)```
+
+
+```mv fileName /var/www/pterodactyl```
