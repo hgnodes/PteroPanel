@@ -29,3 +29,5 @@ Wing Daemon Port
 
 
 ```mv fileName /var/www/pterodactyl```
+
+```blueprint -remove name```
