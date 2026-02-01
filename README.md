@@ -31,3 +31,7 @@ Wing Daemon Port
 ```mv fileName /var/www/pterodactyl```
 
 ```blueprint -remove name```
+
+Simaple Ptero Panel Install
+```bash <(curl -s https://ptero.jishnu.site)```
+Wing Port ```443```
