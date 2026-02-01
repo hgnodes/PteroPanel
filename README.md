@@ -2,10 +2,12 @@
 bash <(curl -s https://ptero.jishnu.site)
 ```
 Wing Tunnel Port
+
 ```ipv4:8080```
 
 
 Wing Daemon Port
+
 ```443```
 
 
