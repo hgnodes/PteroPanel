@@ -1,20 +1,15 @@
 ```bash
 bash <(curl -s https://ptero.jishnu.site)
 ```
+Wing Tunnel Port
+```ipv4:8080```
+
+
 Wing Daemon Port
-```bash
-443```
+```443```
+
 
 ```systemctl start wings```
-
-
-```mkdir -p /etc/certs```
-
-
-```cd /etc/certs```
-
-
-```openssl req -new -newkey rsa:4096 -days 3650 -nodes -x509 -subj "/C=NA/ST=NA/L=NA/O=NA/CN=Generic SSL Certificate" -keyout privkey.pem -out fullchain.pem```
 
 
 ```bash <(curl -fsSL https://raw.githubusercontent.com/hgnodes/blueprint/main/blueprint-installer.sh)```
@@ -23,13 +18,13 @@ Wing Daemon Port
 ```bash <(curl -fsSL https://raw.githubusercontent.com/hgnodes/blueprint/main/addon-installer.sh)```
 
 
-```bash <(curl -fsSL https://raw.githubusercontent.com/hgnodes/custom/main/custom)```
-
-
-```bash <(curl -fsSL https://raw.githubusercontent.com/hgnodes/Docker/main/install)```
-
-
 ```mv fileName /var/www/pterodactyl```
 
 ```blueprint -remove name```
+
+
+
+```bash <(curl -fsSL https://raw.githubusercontent.com/hgnodes/custom/main/custom)```
+
+```bash <(curl -fsSL https://raw.githubusercontent.com/hgnodes/Docker/main/install)```
 
