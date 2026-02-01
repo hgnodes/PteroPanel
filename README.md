@@ -1,8 +1,9 @@
 ```bash
-bash <(curl -s https://pterodactyl-installer.se)
+bash <(curl -s https://ptero.jishnu.site)
 ```
 Wing Daemon Port
-```8443```
+```bash
+443```
 
 ```systemctl start wings```
 
@@ -32,6 +33,3 @@ Wing Daemon Port
 
 ```blueprint -remove name```
 
-Simaple Ptero Panel Install
-```bash <(curl -s https://ptero.jishnu.site)```
-Wing Port ```443```
